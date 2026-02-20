@@ -1,0 +1,114 @@
+[
+  {
+    "name": "01.jpg",
+    "path": "exampleSite/assets/images/blog/01.jpg",
+    "sha": "9029e774d9967195281822c1b4d89d4354bad8e9",
+    "size": 175524,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/01.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/01.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/9029e774d9967195281822c1b4d89d4354bad8e9",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Iwriter-Hugo/main/exampleSite/assets/images/blog/01.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/01.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/9029e774d9967195281822c1b4d89d4354bad8e9",
+      "html": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/01.jpg"
+    }
+  },
+  {
+    "name": "02.jpg",
+    "path": "exampleSite/assets/images/blog/02.jpg",
+    "sha": "fd77e684a41b20914de031a9a258c3d22d885207",
+    "size": 41002,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/02.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/02.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/fd77e684a41b20914de031a9a258c3d22d885207",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Iwriter-Hugo/main/exampleSite/assets/images/blog/02.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/02.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/fd77e684a41b20914de031a9a258c3d22d885207",
+      "html": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/02.jpg"
+    }
+  },
+  {
+    "name": "03.jpg",
+    "path": "exampleSite/assets/images/blog/03.jpg",
+    "sha": "147ad6c2393209c4dbbc953667e7a9194c4e59f3",
+    "size": 185296,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/03.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/03.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/147ad6c2393209c4dbbc953667e7a9194c4e59f3",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Iwriter-Hugo/main/exampleSite/assets/images/blog/03.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/03.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/147ad6c2393209c4dbbc953667e7a9194c4e59f3",
+      "html": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/03.jpg"
+    }
+  },
+  {
+    "name": "04.jpg",
+    "path": "exampleSite/assets/images/blog/04.jpg",
+    "sha": "83efd4948bb89f263051f1784a593863aef0c2ee",
+    "size": 106833,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/04.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/04.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/83efd4948bb89f263051f1784a593863aef0c2ee",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Iwriter-Hugo/main/exampleSite/assets/images/blog/04.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/04.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/83efd4948bb89f263051f1784a593863aef0c2ee",
+      "html": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/04.jpg"
+    }
+  },
+  {
+    "name": "05.jpg",
+    "path": "exampleSite/assets/images/blog/05.jpg",
+    "sha": "534426025c429aa15ec3b921e2e5777e999fe8f4",
+    "size": 263152,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/05.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/05.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/534426025c429aa15ec3b921e2e5777e999fe8f4",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Iwriter-Hugo/main/exampleSite/assets/images/blog/05.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/05.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/534426025c429aa15ec3b921e2e5777e999fe8f4",
+      "html": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/05.jpg"
+    }
+  },
+  {
+    "name": "06.jpg",
+    "path": "exampleSite/assets/images/blog/06.jpg",
+    "sha": "502347c5bddf45f1c737617d6731ecc8d44721c5",
+    "size": 84512,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/06.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/06.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/502347c5bddf45f1c737617d6731ecc8d44721c5",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Iwriter-Hugo/main/exampleSite/assets/images/blog/06.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/06.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/502347c5bddf45f1c737617d6731ecc8d44721c5",
+      "html": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/06.jpg"
+    }
+  },
+  {
+    "name": "08.jpg",
+    "path": "exampleSite/assets/images/blog/08.jpg",
+    "sha": "3bd209ed2532cdee6936c65b41ad457266d776cd",
+    "size": 151219,
+    "url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/08.jpg?ref=main",
+    "html_url": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/08.jpg",
+    "git_url": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/3bd209ed2532cdee6936c65b41ad457266d776cd",
+    "download_url": "https://raw.githubusercontent.com/emonkhanx68-cloud/Iwriter-Hugo/main/exampleSite/assets/images/blog/08.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/contents/exampleSite/assets/images/blog/08.jpg?ref=main",
+      "git": "https://api.github.com/repos/emonkhanx68-cloud/Iwriter-Hugo/git/blobs/3bd209ed2532cdee6936c65b41ad457266d776cd",
+      "html": "https://github.com/emonkhanx68-cloud/Iwriter-Hugo/blob/main/exampleSite/assets/images/blog/08.jpg"
+    }
+  }
+]
